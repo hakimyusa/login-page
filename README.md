@@ -1,2 +1,9 @@
 # login-page
- Simple Login Page using PHP & MySQL 
+ Simple Login Page & Register using PHP & MySQL 
+ 
+ ==========
+ 
+ Test 
+ username : yusa
+ pass : 123
+ 
